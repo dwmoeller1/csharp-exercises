@@ -10,7 +10,7 @@ namespace DayPrinter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter an integer: ");
+            //Console.WriteLine("Enter an integer: ");
             string input = Console.ReadLine();
             int dayNum = int.Parse(input);
 
