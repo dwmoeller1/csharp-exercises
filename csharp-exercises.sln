@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter", "Perimeter\Peri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "AreaOfCircle\AreaOfCircle.csproj", "{9A87B875-6EF9-4427-A6CC-507DE8A381F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2PracticeProblems", "Class2PracticeProblems\Class2PracticeProblems.csproj", "{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{9A87B875-6EF9-4427-A6CC-507DE8A381F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A87B875-6EF9-4427-A6CC-507DE8A381F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A87B875-6EF9-4427-A6CC-507DE8A381F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

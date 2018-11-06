@@ -25,7 +25,7 @@ namespace AreaOfCircle
         {
             int radius;
             Console.WriteLine("Enter radius:");
-            while (!ValidateInput(Console.ReadLine(), out radius){
+            while (!ValidateInput(Console.ReadLine(), out radius)){
                 Console.WriteLine("Please enter a integer.");
                 Console.WriteLine("Enter radius:");
             }
