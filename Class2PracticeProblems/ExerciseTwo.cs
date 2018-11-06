@@ -11,6 +11,7 @@ namespace Class2PracticeProblems
             List<string> words = GetList();
             List<string> wordsOfExcatlyFiveLetters = GetWordsOfFiveLetter(words);
             PrintList(wordsOfExcatlyFiveLetters);
+            Console.ReadLine();
         }
 
         private static void PrintList(List<string> wordsOfExcatlyFiveLetters)
