@@ -17,7 +17,7 @@ namespace Class3Walkthrough.Controllers
         [HttpPost]
         public IActionResult ExamplePage(string firstName, string lastName)
         {
-            return Content(input);
+            return Content($"Welcome to LC101 {firstName} {lastName}");
         }
 
         string htmlString = @"<body>
