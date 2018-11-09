@@ -1,0 +1,13 @@
+﻿<body>
+	<form method='post'>
+		<input type='text' name='name'/>
+		<select name='language'>
+			<option>English</option>
+			<option>Spanish</option>
+			<option>French</option>
+			<option>Russian</option>
+			<option>Canadian</option>
+		</select>
+		<button type='submit'>Submit</button>
+	</form>
+</body>
