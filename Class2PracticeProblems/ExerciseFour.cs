@@ -11,7 +11,6 @@ namespace Class2PracticeProblems
         {
             GetUserInput();
             PrintStudents();
-
         }
 
         private static void GetUserInput()
@@ -44,7 +43,7 @@ namespace Class2PracticeProblems
         {
             Console.WriteLine("Enter another student (y/n)?:");
             string doAnother = Console.ReadLine();
-            return doAnother == "y";
+            return doAnother.ToLower() == "y";
         }
 
         private static void PrintStudents()

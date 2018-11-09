@@ -16,11 +16,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter", "Perimeter\Perimeter.csproj", "{A0B3E11D-8061-4424-AF2A-918D7FD65B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perimeter", "Perimeter\Perimeter.csproj", "{A0B3E11D-8061-4424-AF2A-918D7FD65B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "AreaOfCircle\AreaOfCircle.csproj", "{9A87B875-6EF9-4427-A6CC-507DE8A381F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaOfCircle", "AreaOfCircle\AreaOfCircle.csproj", "{9A87B875-6EF9-4427-A6CC-507DE8A381F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2PracticeProblems", "Class2PracticeProblems\Class2PracticeProblems.csproj", "{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class2PracticeProblems", "Class2PracticeProblems\Class2PracticeProblems.csproj", "{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studio_CountingCharacters", "Studio_CountingCharacters\Studio_CountingCharacters.csproj", "{48718FBC-58C1-48BE-873B-F967A0CDC09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3Walkthrough", "Class3Walkthrough\Class3Walkthrough.csproj", "{FAD64345-9E96-47E0-A811-0AE50FA51BB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +72,14 @@ Global
 		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F69617D6-CAFF-42F0-BDBA-2C39FF73C848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48718FBC-58C1-48BE-873B-F967A0CDC09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48718FBC-58C1-48BE-873B-F967A0CDC09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48718FBC-58C1-48BE-873B-F967A0CDC09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48718FBC-58C1-48BE-873B-F967A0CDC09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD64345-9E96-47E0-A811-0AE50FA51BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD64345-9E96-47E0-A811-0AE50FA51BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD64345-9E96-47E0-A811-0AE50FA51BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD64345-9E96-47E0-A811-0AE50FA51BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
