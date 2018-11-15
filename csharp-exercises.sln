@@ -24,9 +24,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class2PracticeProblems", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studio_CountingCharacters", "Studio_CountingCharacters\Studio_CountingCharacters.csproj", "{48718FBC-58C1-48BE-873B-F967A0CDC09D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3Walkthrough", "Class3Walkthrough\Class3Walkthrough.csproj", "{FAD64345-9E96-47E0-A811-0AE50FA51BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class3Walkthrough", "Class3Walkthrough\Class3Walkthrough.csproj", "{FAD64345-9E96-47E0-A811-0AE50FA51BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3Studio", "Class3Studio\Class3Studio.csproj", "{9FBEBE52-D156-4A9C-A82C-897594DF9FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class3Studio", "Class3Studio\Class3Studio.csproj", "{9FBEBE52-D156-4A9C-A82C-897594DF9FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4Studio", "Class4Studio\Class4Studio.csproj", "{EFB60205-F803-42D6-ABA8-4D5CC38D5F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{9FBEBE52-D156-4A9C-A82C-897594DF9FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBEBE52-D156-4A9C-A82C-897594DF9FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBEBE52-D156-4A9C-A82C-897594DF9FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB60205-F803-42D6-ABA8-4D5CC38D5F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB60205-F803-42D6-ABA8-4D5CC38D5F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB60205-F803-42D6-ABA8-4D5CC38D5F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB60205-F803-42D6-ABA8-4D5CC38D5F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

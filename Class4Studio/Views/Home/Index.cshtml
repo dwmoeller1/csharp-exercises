@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    List<string> movies = ViewBag.Movies;
+}
+
+<form asp-action="CheckboxDelete" asp-controller="Home" method="post">
+    <ul>
+        @foreach(string movie in movies)
+        {
+            <li>@movie &nbsp;&nbsp;<input type="checkbox" name="moviesToDelete" value="@movie"/></li>
+        }
+    </ul>
+    <button type="submit">Delete Movie(s)</button>
+</form>
+<br />
+<br />
+<form asp-action="DropdownDelete" asp-controller="Home" method="post">
+    <select name="movieToDelete">
+        @foreach (string movie in movies)
+        {
+            <option>@movie</option>
+        }
+    </select>
+    <button type="submit">Delete Movie(s)</button>
+</form>
